@@ -1,4 +1,4 @@
-# Floorplan Dimension Extractor
+# 🧱 Floorplan Dimension Extractor
 
 ## Project Overview
 This Python solution extracts dimensions and cabinet/appliance codes from floorplan PDFs and generates annotated visualizations.
